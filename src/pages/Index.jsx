@@ -34,7 +34,7 @@ const Index = () => {
         <Image src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxvbmxpbmUlMjB0cmFpbmluZ3xlbnwwfHx8fDE3MTE5MTQyOTB8MA&ixlib=rb-4.0.3&q=80&w=1080" alt="Online Training" objectFit="cover" width="100%" height={400} />
         <Container maxW="container.lg">
           <Heading as="h1" size="2xl" mb={4}>
-            Elevate Your Skills with Online Training
+            ERNEST LINCOLN GLOBAL INSTITUTE
           </Heading>
           <Text fontSize="xl" mb={8}>
             Unlock your potential with our professional certification courses.
